@@ -1,5 +1,4 @@
-# WeatherDataSimulator
-
+# Pycom
 Overview
 --------
   Weather Data Simulator generates weather data from the internal data store and emits as pipe separated values.
